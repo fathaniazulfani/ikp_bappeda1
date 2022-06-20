@@ -1,0 +1,205 @@
+tahun,bulan,kategori_event,jumlah
+2019,01,Musik,1
+2019,01,Pameran,1
+2019,01,Festival,2
+2019,01,Budaya,
+2019,01,Edukasi,
+2019,01,Workshop,1
+2019,01,Night Life,
+2019,01,Fashion,
+2019,01,Kesenian Tradisional,
+2019,01,Shopping,
+2019,01,Kuliner,
+2019,01,Family,
+2019,01,Art,2
+2019,01,Talkshow,
+2019,01,Sport,2
+2019,01,Atraksi,
+2019,01,Teknologi,
+2019,02,Musik,1
+2019,02,Pameran,
+2019,02,Festival,
+2019,02,Budaya,
+2019,02,Edukasi,2
+2019,02,Workshop,1
+2019,02,Night Life,
+2019,02,Fashion,
+2019,02,Kesenian Tradisional,
+2019,02,Shopping,
+2019,02,Kuliner,
+2019,02,Family,
+2019,02,Art,
+2019,02,Talkshow,
+2019,02,Sport,1
+2019,02,Atraksi,
+2019,02,Teknologi,
+2019,03,Musik,1
+2019,03,Pameran,20
+2019,03,Festival,
+2019,03,Budaya,1
+2019,03,Edukasi,
+2019,03,Workshop,
+2019,03,Night Life,
+2019,03,Fashion,
+2019,03,Kesenian Tradisional,
+2019,03,Shopping,
+2019,03,Kuliner,
+2019,03,Family,
+2019,03,Art,
+2019,03,Talkshow,
+2019,03,Sport,
+2019,03,Atraksi,
+2019,03,Teknologi,
+2019,04,Musik,1
+2019,04,Pameran,14
+2019,04,Festival,
+2019,04,Budaya,2
+2019,04,Edukasi,
+2019,04,Workshop,
+2019,04,Night Life,
+2019,04,Fashion,
+2019,04,Kesenian Tradisional,
+2019,04,Shopping,
+2019,04,Kuliner,
+2019,04,Family,
+2019,04,Art,
+2019,04,Talkshow,
+2019,04,Sport,
+2019,04,Atraksi,
+2019,04,Teknologi,
+2019,05,Musik,2
+2019,05,Pameran,2
+2019,05,Festival,4
+2019,05,Budaya,
+2019,05,Edukasi,1
+2019,05,Workshop,
+2019,05,Night Life,
+2019,05,Fashion,1
+2019,05,Kesenian Tradisional,
+2019,05,Shopping,
+2019,05,Kuliner,
+2019,05,Family,
+2019,05,Art,
+2019,05,Talkshow,
+2019,05,Sport,
+2019,05,Atraksi,
+2019,05,Teknologi,
+2019,06,Musik,4
+2019,06,Pameran,5
+2019,06,Festival,6
+2019,06,Budaya,
+2019,06,Edukasi,
+2019,06,Workshop,
+2019,06,Night Life,
+2019,06,Fashion,
+2019,06,Kesenian Tradisional,
+2019,06,Shopping,
+2019,06,Kuliner,1
+2019,06,Family,
+2019,06,Art,3
+2019,06,Talkshow,
+2019,06,Sport,
+2019,06,Atraksi,
+2019,06,Teknologi,
+2019,07,Musik,
+2019,07,Pameran,17
+2019,07,Festival,5
+2019,07,Budaya,
+2019,07,Edukasi,
+2019,07,Workshop,3
+2019,07,Night Life,
+2019,07,Fashion,
+2019,07,Kesenian Tradisional,
+2019,07,Shopping,
+2019,07,Kuliner,2
+2019,07,Family,
+2019,07,Art,
+2019,07,Talkshow,
+2019,07,Sport,2
+2019,07,Atraksi,
+2019,07,Teknologi,
+2019,08,Musik,8
+2019,08,Pameran,10
+2019,08,Festival,6
+2019,08,Budaya,3
+2019,08,Edukasi,1
+2019,08,Workshop,1
+2019,08,Night Life,
+2019,08,Fashion,
+2019,08,Kesenian Tradisional,
+2019,08,Shopping,
+2019,08,Kuliner,1
+2019,08,Family,
+2019,08,Art,4
+2019,08,Talkshow,
+2019,08,Sport,2
+2019,08,Atraksi,1
+2019,08,Teknologi,
+2019,09,Musik,4
+2019,09,Pameran,28
+2019,09,Festival,5
+2019,09,Budaya,
+2019,09,Edukasi,4
+2019,09,Workshop,5
+2019,09,Night Life,
+2019,09,Fashion,
+2019,09,Kesenian Tradisional,
+2019,09,Shopping,
+2019,09,Kuliner,1
+2019,09,Family,
+2019,09,Art,1
+2019,09,Talkshow,
+2019,09,Sport,
+2019,09,Atraksi,
+2019,09,Teknologi,
+2019,10,Musik,16
+2019,10,Pameran,34
+2019,10,Festival,8
+2019,10,Budaya,1
+2019,10,Edukasi,
+2019,10,Workshop,1
+2019,10,Night Life,
+2019,10,Fashion,2
+2019,10,Kesenian Tradisional,
+2019,10,Shopping,
+2019,10,Kuliner,3
+2019,10,Family,
+2019,10,Art,11
+2019,10,Talkshow,
+2019,10,Sport,3
+2019,10,Atraksi,
+2019,10,Teknologi,
+2019,11,Musik,9
+2019,11,Pameran,12
+2019,11,Festival,11
+2019,11,Budaya,
+2019,11,Edukasi,2
+2019,11,Workshop,6
+2019,11,Night Life,
+2019,11,Fashion,
+2019,11,Kesenian Tradisional,
+2019,11,Shopping,
+2019,11,Kuliner,3
+2019,11,Family,
+2019,11,Art,3
+2019,11,Talkshow,
+2019,11,Sport,1
+2019,11,Atraksi,
+2019,11,Teknologi,
+2019,12,Musik,10
+2019,12,Pameran,12
+2019,12,Festival,8
+2019,12,Budaya,
+2019,12,Edukasi,
+2019,12,Workshop,2
+2019,12,Night Life,
+2019,12,Fashion,3
+2019,12,Kesenian Tradisional,
+2019,12,Shopping,
+2019,12,Kuliner,
+2019,12,Family,
+2019,12,Art,4
+2019,12,Talkshow,
+2019,12,Sport,
+2019,12,Atraksi,
+2019,12,Teknologi,
